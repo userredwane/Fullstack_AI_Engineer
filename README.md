@@ -1,66 +1,84 @@
-<h1 align="center">Hi 👋, I'm Radwane El Falki</h1>
-<h3 align="center">Full Stack MERN & Next.js Developer 🚀</h3>
+<h1 align="center">👋 Salut, je suis Radwane El Falki</h1>
+<h3 align="center">🚀 Développeur Full Stack | MERN & Next.js | Passionné par l'IA et le Cloud</h3>
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **MERN/Next.js projects**
-- 🌱 I’m learning **AI, LLMs, and cloud technologies**
-- 👨‍💻 Portfolio: [radwane.dev](https://radwane.dev)
-- 📫 How to reach me: **radwane@example.com**
-- ⚡ Fun fact: I love building things that solve real problems 🎯
+## 🧾 Résumé Professionnel
+Développeur **Full Stack** avec +2 ans d’expérience dans le développement d’applications web modernes avec **React.js, Next.js, Node.js et AWS**.  
+Expert en **architectures frontend, API REST, bases de données scalables et déploiement cloud**.  
+Spécialisé en **JavaScript, TypeScript, MongoDB, PostgreSQL, Prisma** et solutions pour équipes agiles.
 
 ---
 
-### 🚀 My Top Projects
-<a href="https://github.com/yourusername/stock-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=stock-management&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/hotel-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=hotel-management&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/fitness-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=fitness-app&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/softyflow-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=softyflow-app&theme=radical" />
-</a>
+## 🛠️ Compétences Techniques
+
+- **Langages :** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL, Python, Java, C  
+- **Front-end :** React.js, Next.js, Tailwind CSS, Element UI  
+- **Back-end :** Node.js, Express.js, API REST, Microservices  
+- **Bases de données :** MongoDB, MySQL, PostgreSQL, Prisma ORM  
+- **Cloud & DevOps :** AWS (EC2, S3, RDS, Cognito), Docker, Jenkins, CI/CD  
+- **Outils :** Git, GitHub, GitLab, VS Code, Jira, Figma  
+- **Méthodologies :** Agile, Scrum, Travail d’équipe, Résolution de problèmes  
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:radwane@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-</p>
+## 💼 Expérience Professionnelle
+
+**SoftyDev — Développeur Full Stack**  
+📍 Casablanca | *12/2023 – 04/2024*  
+- Conçu une application de facturation avec Next.js, Prisma, Clerk et Tailwind CSS → réduction de 30% du temps de gestion.  
+- Optimisé les bases de données avec Prisma (+40% performances).  
+- Mis en place une authentification sécurisée (Clerk, RGPD compliant).  
+- Intégré génération/téléchargement PDF → réduction des erreurs de facturation de 15%.  
+
+**SoftyDev — Développeur Full Stack (Stage)**  
+📍 Casablanca | *07/2023 – 11/2023*  
+- Plateforme de création de sites via widgets réutilisables (Vue.js, Node.js, MongoDB, EJS).  
+- Mise en place de CI/CD, réduisant erreurs humaines de 40%.  
+- Application interne de gestion des congés → traitement plus rapide de 50%.  
+- Migration d’un système RunMyProcess → SoftyFlow (temps de migration divisé par 2).  
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projets Techniques
+
+**NextRent – Enterprise Rental Platform**  
+📅 03/2024 – 04/2024 | *Next.js, AWS, MySQL, Tailwind CSS*  
+- Plateforme B2B de gestion locative avec tableau de bord et réservation.  
+- Authentification AWS Cognito + intégration Mapbox.  
+
+**Plateforme SaaS d’Agents IA**  
+📅 05/2024 – 07/2024 | *Next.js 15, Microservices, BetterAuth*  
+- SaaS permettant de créer et gérer des agents IA personnalisés.  
+- Déploiement sur cloud avec CI/CD automatisé.  
+
+**Application de gestion hôtelière**  
+📅 06/2024 – 09/2024 | *React.js, Supabase, PostgreSQL*  
+- Gestion complète des réservations, cabines et informations clients.  
+- Optimisation des opérations internes (+25% efficacité).  
+
+---
+
+## 📊 Stats GitHub
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwanecoder&theme=radical" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radwanecoder&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanecoder&layout=compact&theme=radical" alt="languages"/>
 </p>
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- Replace with GitHub Action if you want auto update -->
-- [Building a Stock Management App](https://youtube.com/...)
-- [Next.js + NestJS API tutorial](https://youtube.com/...)
-- [Supabase Authentication Setup](https://youtube.com/...)
+## 🔗 Contact
 
----
-
-### 📈 GitHub Activity Graph
-[![Radwane’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📧 **radwane@example.com**  
+💼 [LinkedIn](https://linkedin.com/in/your-link)  
+🌐 [Portfolio](https://your-portfolio.com)  
 
 ---
