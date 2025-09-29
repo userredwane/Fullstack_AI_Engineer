@@ -1,4 +1,3 @@
- 
 
 ## 🛠️ Compétences Techniques
 ### **Langages :**
@@ -12,6 +11,9 @@
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+welcome+I'm+Radwane+El+Falki!;" />
 </h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 ### **Frameworks & Bibliothèques :**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -27,9 +29,7 @@
 <p align="center">
   <strong>Full Stack Developer | MERN & Next.js | Passionate about AI and Cloud</strong>
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
+
 
 <p align="center">
   💻 Full Stack Developer with +2 years of experience in modern web application development<br>
