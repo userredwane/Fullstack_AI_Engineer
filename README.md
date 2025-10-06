@@ -1,18 +1,7 @@
 
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+welcome+I'm+Radwane+El+Falki!;" />
+  👋<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+welcome+I'm+Radwane+El+Falki!;" />
 </h1>
-<h1 align="center">Hi 👋, I'm Radwane</h1>
-<h3 align="center">Full Stack Developer | MERN & Next.js Enthusiast 🚀</h3>
-
----
-
-### 🌟 About Me
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m learning **AI integration & advanced Next.js features**
-- 💬 Ask me about **MERN, Next.js, and scalable app design**
-- ⚡ Fun fact: *I love turning ideas into real-world solutions*
-
 ---
 
 ### 🛠️ Tech Stack
